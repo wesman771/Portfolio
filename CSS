@@ -1,0 +1,35 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.text-centered{
+  text-align:center;
+}
+h1{
+  color: grey;
+  font-family: cursive,ariel;
+  font-size: 50px;
+}
+h2{
+  color: maroon;
+  font-family: fangsong,ariel;
+  font-size: 45px;
+}
+h3{
+  color: black;
+  font-family: cursive;
+  font-size: 25px;
+}
+p{
+  color: black;
+  font-family: system-ui,ariel;
+  font-size: 17px;
+}
+.dark-background{
+  background-color: white;
+  color: orange;
+}
+.wrapper{
+  width: 400px;
+  margin: auto;
+}

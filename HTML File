@@ -1,27 +1,25 @@
-<!DOCTYPE html>
-<html>
-
-<head>
- <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
+<meta name="viewport" content="width=device-width">
   <title> Wesley Dangerfield</title>
   <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
+ <header class= "dark-background">
+   <div class="wrapper">
 <header>
-<h1>Wesley Dangerfield</h1>
+<h1 class= "text-centered">Wesley Dangerfield</h1>
 <header>
-<h3> software developer </h3>
-<h2> Hi, Im Wesley Dangerfield</h2>
-<p> I'm a software developer living in Phoenix Arizona</p>
+<h3 class= "text-centered"> Software Developer </h3>
+<h2 class= "text-centered"> Hi, Im Wesley Dangerfield</h2>
+  <img src= "photo of me.jpg" alt= "Me" width= "400" heigh= "250" class= "center">
+<p class= "text-centered"> I'm a software developer living in Phoenix Arizona</p>
 <p> 
 <p>
 <p>
-<p> Please take a look at my websote and feel free to Contact Me!
+<p class= "text-centered"> Please take a look at my website and feel free to Contact Me!
 
-<h2> About Me</h2>
-<p> My name is Wesley Dangerfield, after studying elctrical engineering in college for about 2 years I realized that I was in the wrong field!!
+<h2 class= "text-centered"> About Me</h2>
+<p>   My name is Wesley Dangerfield, after studying elctrical engineering in college for about 2 years I realized that I was in the wrong field!!
 i switched to learning cyber security but soon realized that i preffered the web development side of things more than the security side.</p> 
 <p> As a Thinkful student, i've begun my software development journey and have every moment of it</p>
 <p> If your looking to hire a web developer please reach out!! I'm so excited to work with other developers and create great software and web projects!!

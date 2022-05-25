@@ -42,3 +42,7 @@ a:visited{
 a:hover{
   color: yellow
 }
+ul{
+  text-align: center
+    list-style: inside
+}

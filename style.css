@@ -43,6 +43,6 @@ a:hover{
   color: yellow
 }
 ul{
-  text-align: center
+  float: center
     list-style: inside
 }
